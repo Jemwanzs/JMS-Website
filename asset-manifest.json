@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Jemwanzs/JMS-Website.git/static/css/main.fb4f03cb.css",
+    "main.js": "/Jemwanzs/JMS-Website.git/static/js/main.cf99af6b.js",
+    "static/js/453.d60d60eb.chunk.js": "/Jemwanzs/JMS-Website.git/static/js/453.d60d60eb.chunk.js",
+    "static/media/home2.jpg": "/Jemwanzs/JMS-Website.git/static/media/home2.50c96ec0427559229e5b.jpg",
+    "static/media/portfolio1.jpg": "/Jemwanzs/JMS-Website.git/static/media/portfolio1.6e7dafc613b2b27df994.jpg",
+    "static/media/clientele2.jpg": "/Jemwanzs/JMS-Website.git/static/media/clientele2.4b30ce1fad6f6d44444d.jpg",
+    "static/media/googlesheets1.jpg": "/Jemwanzs/JMS-Website.git/static/media/googlesheets1.7cf13995cba9bf1543ec.jpg",
+    "static/media/analysis1.jpg": "/Jemwanzs/JMS-Website.git/static/media/analysis1.19946659cd0fb90d88e7.jpg",
+    "static/media/home3.jpg": "/Jemwanzs/JMS-Website.git/static/media/home3.71e812ff1e7fa8414b61.jpg",
+    "static/media/code5.jpg": "/Jemwanzs/JMS-Website.git/static/media/code5.c6bc55a7d897096e9046.jpg",
+    "static/media/clientele1.PNG": "/Jemwanzs/JMS-Website.git/static/media/clientele1.5d1f53c45dd80679798d.PNG",
+    "static/media/home1.jpg": "/Jemwanzs/JMS-Website.git/static/media/home1.485a769300333b5bda53.jpg",
+    "index.html": "/Jemwanzs/JMS-Website.git/index.html",
+    "main.fb4f03cb.css.map": "/Jemwanzs/JMS-Website.git/static/css/main.fb4f03cb.css.map",
+    "main.cf99af6b.js.map": "/Jemwanzs/JMS-Website.git/static/js/main.cf99af6b.js.map",
+    "453.d60d60eb.chunk.js.map": "/Jemwanzs/JMS-Website.git/static/js/453.d60d60eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4f03cb.css",
+    "static/js/main.cf99af6b.js"
+  ]
+}
